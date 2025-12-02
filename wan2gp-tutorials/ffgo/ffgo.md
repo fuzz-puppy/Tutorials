@@ -1,6 +1,6 @@
 # FFGO Tutorial
 
-Use this quick reference to capture the key steps from [the companion YouTube tutorial](FILL IN).
+Use this quick reference to capture the key steps from [the companion YouTube tutorial](https://youtu.be/_LjYZ1nhva0).
 
 ## Creating the Image Board
 
@@ -10,7 +10,7 @@ Create an image board in the correct format using [Image Board Creator](https://
 
 ### Sample Prompts
 
-Download example prompts from [here](https://github.com/zli12321/FFGO-Video-Customization/blob/a5dbf153d2a66d71c1980534c01c64ebf6a33d0d/Data/combined_first_frames/0-data.csv) 2.
+Download example prompts from [here](https://github.com/zli12321/FFGO-Video-Customization/blob/a5dbf153d2a66d71c1980534c01c64ebf6a33d0d/Data/combined_first_frames/0-data.csv).
 
 ### Prompt Creator Prompt
 
@@ -37,7 +37,7 @@ Example negative prompt can be found [here](https://github.com/zli12321/FFGO-Vid
 
 ## Settings
 
-See [Example](./example-settings.json).
+See [example](./example-settings.json).
 
 - Upload your image board.
 - Change the prompt to your prompt.
